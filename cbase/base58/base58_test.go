@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/cxio/cbase/base58"
+	"github.com/cxio/suite/cbase/base58"
 )
 
 var stringTests = []struct {

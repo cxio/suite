@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/cxio/cbase/base58"
+	"github.com/cxio/suite/cbase/base58"
 )
 
 func BenchmarkBase58Encode(b *testing.B) {

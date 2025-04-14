@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"github.com/cxio/cbase/base58"
+	"github.com/cxio/suite/cbase/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

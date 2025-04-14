@@ -6,7 +6,7 @@
 // 注：暂以模块逻辑对待。
 package instex
 
-import "github.com/cxio/script/ibase"
+import "github.com/cxio/suite/script/ibase"
 
 // 指令配置对引用。
 type Instx = ibase.Instx

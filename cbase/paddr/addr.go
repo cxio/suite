@@ -10,9 +10,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/cxio/cbase/base58"
-	"github.com/cxio/cbase/chash"
-	"github.com/cxio/locale"
+	"github.com/cxio/suite/cbase/base58"
+	"github.com/cxio/suite/cbase/chash"
+	"github.com/cxio/suite/locale"
 	"golang.org/x/crypto/blake2b"
 	"golang.org/x/crypto/sha3"
 )

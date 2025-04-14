@@ -10,12 +10,12 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/cxio/cbase"
-	"github.com/cxio/cbase/chash"
-	"github.com/cxio/locale"
-	"github.com/cxio/script/ibase"
-	"github.com/cxio/script/icode"
-	"github.com/cxio/script/instor"
+	"github.com/cxio/suite/cbase"
+	"github.com/cxio/suite/cbase/chash"
+	"github.com/cxio/suite/locale"
+	"github.com/cxio/suite/script/ibase"
+	"github.com/cxio/suite/script/icode"
+	"github.com/cxio/suite/script/instor"
 )
 
 // 函数便捷引用。

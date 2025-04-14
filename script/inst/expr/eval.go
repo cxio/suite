@@ -10,9 +10,9 @@ package expr
 import (
 	"fmt"
 
-	"github.com/cxio/locale"
-	"github.com/cxio/script/ibase"
-	"github.com/cxio/script/icode"
+	"github.com/cxio/suite/locale"
+	"github.com/cxio/suite/script/ibase"
+	"github.com/cxio/suite/script/icode"
 )
 
 // 本地化文本获取。

@@ -7,7 +7,7 @@ package base58_test
 import (
 	"testing"
 
-	"github.com/cxio/cbase/base58"
+	"github.com/cxio/suite/cbase/base58"
 )
 
 var checkEncodingStringTests = []struct {

@@ -11,7 +11,7 @@ import (
 	"math"
 	"regexp"
 
-	"github.com/cxio/script/instor"
+	"github.com/cxio/suite/script/instor"
 )
 
 // 切片成员类型约束

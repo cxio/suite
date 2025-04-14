@@ -6,7 +6,7 @@
 package mox
 
 import (
-	"github.com/cxio/script/ibase"
+	"github.com/cxio/suite/script/ibase"
 )
 
 // 指令配置对引用。

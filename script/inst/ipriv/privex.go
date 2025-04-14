@@ -6,7 +6,7 @@
 // 按直接扩展指令对待，索引目标即为指令本身。
 package ipriv
 
-import "github.com/cxio/script/ibase"
+import "github.com/cxio/suite/script/ibase"
 
 // 指令配置器引用。
 type Instx = ibase.Instx

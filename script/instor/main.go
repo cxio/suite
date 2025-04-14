@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/cxio/script/icode"
+	"github.com/cxio/suite/script/icode"
 )
 
 // 布尔类型

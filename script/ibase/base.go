@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/cxio/cbase/paddr"
-	"github.com/cxio/locale"
-	"github.com/cxio/script/instor"
+	"github.com/cxio/suite/cbase/paddr"
+	"github.com/cxio/suite/locale"
+	"github.com/cxio/suite/script/instor"
 	"golang.org/x/tools/container/intsets"
 )
 

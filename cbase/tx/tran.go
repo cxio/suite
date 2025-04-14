@@ -5,8 +5,8 @@
 package tx
 
 import (
-	"github.com/cxio/cbase"
-	"github.com/cxio/cbase/paddr"
+	"github.com/cxio/suite/cbase"
+	"github.com/cxio/suite/cbase/paddr"
 )
 
 const (

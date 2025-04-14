@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cxio/cbase"
+	"github.com/cxio/suite/cbase"
 )
 
 // 池大小。
